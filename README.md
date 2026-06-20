@@ -1,5 +1,7 @@
 BP Financial Performance Analysis (2021–2024)
+
 Project Overview
+
 This project provides a comprehensive financial performance and strategic analysis of BP’s stock during the period from 2021 to 2024. The objective is to evaluate price trends, stability, and market dynamics to provide actionable insights for investment decision-making.
 
 Methodology
